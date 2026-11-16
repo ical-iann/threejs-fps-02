@@ -1,3 +1,19 @@
+# threejs-fps-02
+
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/ical-iann/threejs-fps-02/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/ical-iann/threejs-fps-02/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+
+Meridian Yard — a tactical 3v3 three.js FPS in a container yard, with rounds, economy, bot AI, grenades and headshots. Entry for the make.fun "Make the best three.js tactical FPS" bounty, $1,000 in USDC.
+
+## Run it
+
+```sh
+node serve.ts
+```
+
+Then open http://localhost:8080 in desktop Chrome.
+
 # Meridian Yard — a three.js tactical FPS
 
 Entry for the make.fun bounty **threejs-fps-02** ($1,000, deadline Tue 17 Nov 2026
@@ -94,3 +110,7 @@ with three lanes (west, mid, east) and two objective sites, A and B.
    `node cli/makefun.mjs check`.
 3. **BOS's explicit confirmation to submit**, and the entry signature from the
    linked Solana wallet (escrow bounty: every entry is signed).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=fjj5ptt9&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards</sub>
